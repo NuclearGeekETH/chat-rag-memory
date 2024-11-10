@@ -14,7 +14,7 @@ with gr.Blocks(theme=gr.themes.Soft(), title="LLM with Memory Demo") as demo:
     )
 
     system = gr.Textbox(
-        lines = 2,
+        lines = 4,
         label = "System Message",
         value="You are ChatGPT, a large language model trained by OpenAI based on the GPT-4 architecture. " +
             "You have the ability to store, delete and retrieve memories. " +
