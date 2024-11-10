@@ -34,7 +34,7 @@ To set up the LLM with Memory Demo on your local machine, follow these steps:
 
 3. **Install Dependencies:**
 
-   Ensure you have [Python 3.9+](https://www.python.org/downloads/) and [poetry](https://python-poetry.org/docs/#installation) installed, then run:
+   Ensure you have [Python 3.9+](https://www.python.org/downloads/) installed, then run:
 
    ```bash
    pip install -r requirements.txt
