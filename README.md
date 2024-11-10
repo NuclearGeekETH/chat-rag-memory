@@ -65,7 +65,7 @@ To set up the LLM with Memory Demo on your local machine, follow these steps:
 ## Directory Structure
 
 - **main.py:** The entry point of the application.
-- **modules/get_open_ai_response.py:** Contains functions managing the chatbot's memory operations (create, delete, search).
+- **modules/get_openai_response.py:** Contains functions managing the chatbot's memory operations (create, delete, search).
 - **requirements.txt:** Lists the Python packages required to run this demo.
 
 ## Dependencies
