@@ -21,8 +21,8 @@ To set up the LLM with Memory Demo on your local machine, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/NuclearGeekETH/chat-rag-demo.git
-   cd chat-rag-demo
+   git clone https://github.com/NuclearGeekETH/chat-rag-memory.git
+   cd chat-rag-memory
    ```
 
 2. **Create a Virtual Environment:**
