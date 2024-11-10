@@ -28,7 +28,7 @@ To set up the LLM with Memory Demo on your local machine, follow these steps:
 2. **Create a Virtual Environment:**
 
    ```bash
-   python3 -m venv venv
+   python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
    ```
 
