@@ -1,0 +1,8 @@
+.venv
+.env
+/db_memories
+*.docx
+*.xlsx
+*.csv
+*.1'
+*.pyc
