@@ -6,6 +6,10 @@
 
 The **LLM with Memory Demo** is a demonstration application that leverages language models with memory capabilities to store, retrieve, and manage information across interactions. The demo application uses OpenAI's models with Gradio for creating an interactive web-based interface. It includes features for creating, deleting, and searching for 'memories' stored as vector embeddings.
 
+## YouTube Video Walkthrough
+
+[![Video Thumbnail](https://img.youtube.com/vi/FNwfaiPZRFk/0.jpg)](https://www.youtube.com/watch?v=FNwfaiPZRFk)
+
 ## Features
 
 - **Interactive Chat Interface:** Communicate with a chatbot that can remember, forget or search for specific information upon request.
